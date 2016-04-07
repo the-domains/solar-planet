@@ -2,6 +2,7 @@ name: Solar Planet
 favicon: null
 layout_spectrum: 0.50391
 typography_spectrum: 0.75636
+title: Solar Planet
 cta:
   domain: null
   bucket: null
