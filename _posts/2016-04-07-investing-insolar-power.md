@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Solar power is essential to the planet’s sustainable energy supply. According to the International Energy Agency, it is on the path to becoming the largest source of electricity by 2050. To make solar power even more competitive, we are actively contributing to its development through an industrial commitment led by our SunPower affiliate.'
-datePublished: '2016-04-07T16:36:12.810Z'
-dateModified: '2016-04-07T16:36:02.761Z'
+datePublished: '2016-04-07T16:46:06.935Z'
+dateModified: '2016-04-07T16:36:17.622Z'
 title: "Investing \_in \_solar power"
 author: []
 sourcePath: _posts/2016-04-07-investing-insolar-power.md
