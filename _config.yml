@@ -1,20 +1,4 @@
-name: Solar Planet
-favicon: null
-layout_spectrum: 0.50391
-typography_spectrum: 0.75636
-title: Solar Planet
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#71A7FE'
@@ -24,6 +8,11 @@ color:
     - '#CEAFC0'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.15384097979404032
   rhythmicContrast: 0.7559248660691082
+  saturation: 0.15384097979404032
+cta: {}
+layout_spectrum: 0.031531
+name: Solar Planet
+opengraph: {}
 purpose: []
+typography_spectrum: 0.75636
