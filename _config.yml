@@ -8,11 +8,11 @@ color:
     - '#CEAFC0'
   brandStrength: 0.5
   lightness: 0.5
-  rhythmicContrast: 0.7559248660691082
-  saturation: 0.15384097979404032
+  rhythmicContrast: 0.755924
+  saturation: 0.311936
 cta: {}
-layout_spectrum: 0.031531
+layout_spectrum: 0.532657
 name: Solar Planet
 opengraph: {}
 purpose: []
-typography_spectrum: 0.75636
+typography_spectrum: 0.834459
